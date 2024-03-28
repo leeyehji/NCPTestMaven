@@ -1,5 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,8 +8,8 @@
 </head>
 <body>
 <h3>
-	�����ŤŤŤŤŤŤŤŤŤŤŤŤŤŤ�
+	졸려ㅕㅕㅕㅕㅕㅕㅕㅕㅕㅕㅕㅕㅕㅕㅕ
 </h3>
-	<img src="./image/sleep.jpeg" alt="��������">
+	<img src="./image/sleep.jpeg" alt="졸립ㄴ다">
 </body>
 </html>
